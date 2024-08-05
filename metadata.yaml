@@ -1,0 +1,42 @@
+_repo: In-the-line-of-duty_74124
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pyles, V. E. (Virgil Evans)
+    alias: Pyles, Virgil Evans
+    birthdate: 1891
+    deathdate: 1965
+    gutenberg_agent_id: '56241'
+    url: http://www.gutenberg.org/2009/agents/56241
+creator:
+  author:
+    agent_name: Greene, H. P. S. (Henry Paul Stevens)
+    alias: Greene, Henry Paul Stevens
+    birthdate: 1892
+    deathdate: 1947
+    gutenberg_agent_id: '57095'
+    url: http://www.gutenberg.org/2009/agents/57095
+description: ''
+gutenberg_issued: '2024-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74124'
+language: en
+pgterms:marc904: https://archive.org/details/adv_1928_07_01
+pgterms:marc905: 20240602132121greene
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York, NY :$bThe Butterick Publishing Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'World War, 1914-1918 -- France -- Fiction'
+- !lcsh 'Air pilots, Military -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Aerial operations, American -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: In the line of duty
+url: http://www.gutenberg.org/ebooks/74124
