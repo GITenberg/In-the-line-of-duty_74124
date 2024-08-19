@@ -8,6 +8,9 @@ contributor:
     deathdate: 1965
     gutenberg_agent_id: '56241'
     url: http://www.gutenberg.org/2009/agents/56241
+covers:
+- cover_type: archival
+  image_path: 74124-h/images/cover.jpg
 creator:
   author:
     agent_name: Greene, H. P. S. (Henry Paul Stevens)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '57095'
     url: http://www.gutenberg.org/2009/agents/57095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74124#In-the-line-of-duty
 gutenberg_issued: '2024-07-25'
 gutenberg_type: Text
 identifiers:
